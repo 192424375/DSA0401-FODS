@@ -1,3 +1,8 @@
+#24.Scenario:You are a scientist conducting research on rare elements found in a specific region. Yourgoal is to estimate the average concentration of a rare element in the region using a random sample of
+#measurements. You will use the NumPy library to perform point estimation and calculate confidenceintervals for the population mean.The rare element concentration data is stored in a CSV file named"rare_elements.csv," where each row contains a single measurement of the concentration.
+#Question:
+#write a Python program that allows the user to input the sample size, confidence level, and desiredlevel of precision.
+
 import numpy as np
 from scipy import stats
 
