@@ -1,6 +1,5 @@
 #30.Scenario: K-Nearest Neighbors (KNN) ClassifierYou are working on a classification problem to predict whether a patient has a certain medicalcondition or not based on their symptoms. You have collected a dataset of patients with labelled data
-(0 for no condition, 1 for the condition) and various symptom features.Write a Python program that allows the user to input the features of a new patient and the value of
-k(number of neighbors). The program should use the KNN classifier from the scikit-learn library topredict whether the patient has the medical condition or not based on the input features.
+#(0 for no condition, 1 for the condition) and various symptom features.Write a Python program that allows the user to input the features of a new patient and the value ofk(number of neighbors). The program should use the KNN classifier from the scikit-learn library topredict whether the patient has the medical condition or not based on the input features.
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
