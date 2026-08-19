@@ -1,3 +1,9 @@
+#21.Scenario: Suppose a hospital tested the age and body fat data for 18 randomly selected adults withthe following result.
+#Question:
+#• Calculate the mean, median and standard deviation of age and %fat using Pandas.
+#• Draw the boxplots for age and %fat.
+#• Draw a scatter plot and a q-q plot based on these two variables
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import scipy.stats as stats
