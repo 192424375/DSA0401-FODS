@@ -1,3 +1,7 @@
+#13. Scenario: You are a data analyst working for a finance company. Your team is interested inanalyzing the variability of stock prices for a particular company over a certain period. The company's
+#stock data includes the closing prices for each trading day of the specified period.Question: Your task is to build a Python program that reads the stock data from a CSV file, calculates
+#the variability of stock prices, and provides insights into the stock's price movements.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
