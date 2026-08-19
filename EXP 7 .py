@@ -1,3 +1,6 @@
+#7. Scenario: You are working as a data analyst for an e-commerce company. You have been given adataset containing information about customer orders, stored in a Pandas DataFrame named
+#order_data. The DataFrame has columns for customer ID, order date, product name, and order quantity.Your task is to analyze the data and answer specific questions about the orders.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
