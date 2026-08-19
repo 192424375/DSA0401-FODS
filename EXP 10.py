@@ -1,3 +1,7 @@
+#10. Scenario: You are working on a data visualization project and need to create basic plots usingMatplotlib. You have a dataset containing the monthly sales data for a company, including the month
+#and corresponding sales values. Your task is to develop a Python program that generates line plots andbar plots to visualize the sales data.
+#Question:1. How would you develop a Python program to create a line plot of the monthly sales data?2: How would you develop a Python program to create a bar plot of the monthly sales data?
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
