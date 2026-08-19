@@ -1,3 +1,8 @@
+#23. Scenario: You are a data scientist working for an e-commerce company. The marketing team hasconducted an A/B test to evaluate the effectiveness of two different website designs (A and B) in terms
+#of conversion rate. They randomly divided the website visitors into two groups, with one groupexperiencing design A and the other experiencing design B. After a week of data collection, you nowhave the conversion rate data for both groups. You want to determine whether there is a statisticallysignificant difference in the mean conversion rates between the two website designs.
+#Question:
+#"Based on the data collected from the A/B test, is there a statistically significant difference in the meanconversion rates between website design A and website design B?"
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import ttest_ind
