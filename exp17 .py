@@ -1,3 +1,6 @@
+#17. Scenario: You are a data analyst working for a company that sells products online. You have beentasked with analyzing the sales data for the past month. The data is stored in a Pandas data frame.
+#Question: Develop a code in python to find the frequency distribution of the ages of the customers whohave made a purchase in the past month.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
