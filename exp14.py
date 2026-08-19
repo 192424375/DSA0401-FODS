@@ -1,3 +1,7 @@
+#14. Scenario: You are a data scientist working for an educational institution, and you want to explorethe correlation between students' study time and their exam scores. You have collected data from a
+#group of students, noting their study time in hours and their corresponding scores in an exam.Question: Identify any potential correlation between study time and exam scores and explore various
+#plotting functions to visualize this relationship effectively.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
