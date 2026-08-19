@@ -1,3 +1,9 @@
+#25.Scenario: Imagine you are an analyst for a popular online shopping website. Your task is to analyzecustomer reviews and provide insights on the average rating and customer satisfaction level for a
+#specific product category.
+#Question:
+#• You will use the pandas library to calculate confidence intervals to estimate the true populationmean rating.
+#• You have been provided with a CSV file named "customer_reviews.csv," which containscustomer ratings for products in the chosen category.
+
 import pandas as pd
 import numpy as np
 from scipy import stats
