@@ -1,3 +1,8 @@
+#22. Scenario:You are a medical researcher investigating the effectiveness of a new drug in reducing blood pressure.You conduct a clinical trial with a sample of 50 patients who were randomly assigned to receive either
+#the new drug or a placebo. After measuring their blood pressure levels at the end of the trial, you obtainthe data for both groups. Now, you want to determine the confidence intervals for the mean reductionin blood pressure for both the drug and placebo groups.
+#Question:
+#"What is the 95% confidence interval for the mean reduction in blood pressure for patients whoreceived the new drug? Also, what is the 95% confidence interval for the mean reduction in bloodpressure for patients who received the placebo?
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
